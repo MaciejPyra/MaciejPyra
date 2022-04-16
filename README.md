@@ -1,7 +1,7 @@
 <b><div align="center">Hi there, my name is Maciej 👋</div></b>
 
 
-![alt text](https://www.computerworld.pl/g1/news/thumb/3/4/345682)
+![alt text](https://miro.medium.com/max/1400/1*V497h0fkDNp2uunMNN1O4w.png)
 
 
 <p align="center">Data Scientist | Python Developer</p>
