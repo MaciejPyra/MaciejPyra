@@ -11,9 +11,7 @@ As a Python Developer with strong probability, statistics and mathematics acadam
 
 *  :speech_balloon:
 
-
- > - Test 123
- > - Follow  [testing artifacts](http://2.bp.blogspot.com) (more Unit )
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/.NET.svg" />
 
 
 - 🔭 I’m currently working on this page. 
