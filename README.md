@@ -1,4 +1,4 @@
-# Maciej Pyra 👋
+# Hi, I'm Maciej Pyra 👋
  :thought_balloon: As someone who is passionate for Data Science and Big Data I love to explore relationships between variables and recognize hidden data patterns. My interest in cutting edge tools and technologies allows me to combine my career path with my Hobbies.
 
 Data Scientist specialized in building machine and deep learning models using multiple tools, frameworks and libraries. Attention to detail while wrtitng programming scripts allows me to generate the best products.
