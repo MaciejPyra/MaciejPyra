@@ -1,4 +1,4 @@
-<b><div align="center">Hi there, my name is Maciej.</div></b>
+<b><div align="center">Hi there, my name is Maciej 👋</div></b>
 <p align="center">Data Scientist | Python Developer</p>
 
  :thought_balloon: As someone who is passionate for Data Science and Big Data I love to explore relationships between variables and recognize hidden data patterns. My interest in cutting edge tools and technologies allows me to combine my career path with my Hobbies.
