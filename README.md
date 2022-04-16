@@ -7,7 +7,7 @@ Data Scientist specialized in building machine and deep learning models using mu
 
 As a Python Developer with strong probability, statistics and mathematics acadamic background I am able to combine my theoretical knowledge with practical skills.
 
-:speech_balloon: Knowledge of: `Git`, `GitHub`, `GitLab`, Python, R, SQL (T-SQL and PL/SQL), Julia, VBA, SAS, Matlab, Object-Oriented Programming, Relational Databases (MS Server, Oracle), NoSQL Databases (DynamoDB, MongoDB), AWS, Tableau.
+:speech_balloon: Knowledge of: `Git`, `GitHub`, `GitLab`, `Python`, `R`, `SQL (T-SQL and PL/SQL)`, `Julia`, `VBA`, `SAS`, `Matlab`, `Object-Oriented Programming`, `Relational Databases (MS Server, Oracle)`, `NoSQL Databases (DynamoDB, MongoDB)`, `AWS`, `Tableau`.
 
 *  :speech_balloon:
 
@@ -17,9 +17,6 @@ As a Python Developer with strong probability, statistics and mathematics acadam
 
 
 - 🔭 I’m currently working on this page. 
-
-
-`<div></div>`
 
 
 :email: Feel free to contact me. I am always here...
