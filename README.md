@@ -1,10 +1,4 @@
-<b><div align="center">Hi there, my name is Maciej 👋</div></b>
-
-
-![alt text](https://miro.medium.com/max/1400/1*V497h0fkDNp2uunMNN1O4w.png)
-
-
-<p align="center">Data Scientist | Python Developer</p>
+# Maciej Pyra 👋
 
  :thought_balloon: As someone who is passionate for Data Science and Big Data I love to explore relationships between variables and recognize hidden data patterns. My interest in cutting edge tools and technologies allows me to combine my career path with my Hobbies.
 
@@ -18,3 +12,6 @@ As a Python Developer with strong probability, statistics and mathematics acadam
 
 :email: Feel free to contact me. I am always here...
 
+
+
+<p align="center">Data Scientist | Python Developer</p>
