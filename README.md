@@ -13,5 +13,4 @@ As a Python Developer with strong probability, statistics and mathematics acadam
 :email: Feel free to contact me. I am always here...
 
 
-
 <p align="center">Data Scientist | Python Developer</p>
