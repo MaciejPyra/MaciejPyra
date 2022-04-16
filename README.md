@@ -10,7 +10,7 @@ As a Python Developer with strong probability, statistics and mathematics acadam
 `Relational Databases (MS Server, Oracle)`, `NoSQL Databases (DynamoDB, MongoDB)`, `AWS`, `Tableau`.
 
 
-:email: Feel free to contact me. I am always here... or find me on [LinkedIn](www.linkedin.com/in/maciej-pyra).
+:email: Feel free to contact me. I am always here... or find me on [LinkedIn](https://www.linkedin.com/in/maciej-pyra/).
 
 
 <p align="center">Data Scientist | Python Developer</p>
