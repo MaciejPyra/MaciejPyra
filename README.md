@@ -11,7 +11,7 @@ As a Python Developer with strong probability, statistics and mathematics acadam
 
 *  :speech_balloon:
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/python.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" />
 
 
 - 🔭 I’m currently working on this page. 
