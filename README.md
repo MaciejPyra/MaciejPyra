@@ -5,7 +5,7 @@ Data Scientist specialized in building machine and deep learning models using mu
 
 As a Python Developer with strong probability, statistics and mathematics acadamic background I am able to combine my theoretical knowledge with practical skills.
 
-## :speech_balloon: Knowledge of:
+## :speech_balloon: Skills and Experience:
 `Git`, `GitHub`, `GitLab`, `Python`, `R`, `SQL (T-SQL and PL/SQL)`, `Julia`, `VBA`, `SAS`, `Matlab`, `Object-Oriented Programming`,
 `Relational Databases (MS Server, Oracle)`, `NoSQL Databases (DynamoDB, MongoDB)`, `AWS`, `Tableau`.
 
