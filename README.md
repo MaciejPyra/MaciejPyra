@@ -9,6 +9,7 @@ As a Python Developer with strong probability, statistics and mathematics acadam
 
 Knowledge of: Git, GitHub, GitLab, Python, R, SQL (T-SQL and PL/SQL), Julia, VBA, SAS, Matlab, Object-Oriented Programming, Relational Databases (MS Server, Oracle), NoSQL Databases (DynamoDB, MongoDB), AWS, Tableau.
 
+*  :blush:
 
 - 🔭 I’m currently working on this page. 
 
