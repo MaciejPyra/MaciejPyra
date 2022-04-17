@@ -11,7 +11,8 @@ As a Python Developer with strong probability, statistics and mathematics acadam
 * Databases :open_file_folder: -> `Relational Databases (Microsoft SQL Server, Oracle Database)` `NoSQL Databases (DynamoDB, MongoDB)` <br/>
 * Cloud technology :cloud: -> `AWS` <br/>
 * Data Visualization :chart_with_downwards_trend: -> `R Shiny` `Tableau` <br/>
-* DS/ML frameworks + algorithms: 
+* DS/ML frameworks : 
+* Machine and deep learning algorithms :dart: -> `regressions` `decision tree` `random forest` `neural netweorks` `convolutional neural networks` `NLP` <br/>
 
 
 Here you can see my [Project Portfolio](https://maciejpyra.github.io/Maciej_Portfolio_2/).
