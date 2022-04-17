@@ -9,12 +9,12 @@ As a Python Developer with strong probability, statistics and mathematics acadam
 * Programming languages  	:desktop_computer: -> `Python` `R` `SQL (T-SQL and PL/SQL)` `Julia` `VBA` `SAS` `Matlab` `Java (basics)`<br/>
 * Programming-related experience :trophy: -> `Unit testing` `Object-Oriented Programming` `Web Scraping` <br/>
 * Version Contol System :handshake: -> `Git` `GitHub` `GitLab`<br/>
-* Databases :open_file_folder: -> `Relational Databases (Microsoft SQL Server, Oracle Database)` `NoSQL Databases (DynamoDB, MongoDB)` <br/>
+* Tools  :page_with_curl: -> `JIRA` <br/>
 * Cloud technology :cloud: -> `AWS` <br/>
-* Data Visualization :chart_with_downwards_trend: -> `R Shiny` `Tableau` <br/>
+* Databases :open_file_folder: -> `Relational Databases (Microsoft SQL Server, Oracle Database)` `NoSQL Databases (DynamoDB, MongoDB)` <br/>
 * DS/ML frameworks :mortar_board: -> `pandas` `NumPy` `SciPy` `Matplotlib` `seaborn` `QuantLib`  `scikit-learn` `TensorFlow`
 * Machine and deep learning algorithms :dart: -> `linear / logistic regression` `decision tree` `random forest` `clustering` `dimensionality reduction` `artificial neural networks` `convolutional neural networks` `NLP` <br/>
-* Tools  :page_with_curl: -> `JIRA` <br/>
+* Data Visualization :chart_with_downwards_trend: -> `R Shiny` `Tableau` <br/>
 
 
 Here you can see my [Project Portfolio](https://maciejpyra.github.io/Maciej_Portfolio_2/).
