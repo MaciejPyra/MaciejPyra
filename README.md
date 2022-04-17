@@ -9,12 +9,12 @@ As a Python Developer with strong probability, statistics and mathematics acadam
 * Programming languages -> `Python` `R` `SQL (T-SQL and PL/SQL)` `Julia` `VBA` `SAS` `Matlab`<br/>
 * DevOps -> `Git`, `GitHub`, `GitLab`, `Object-Oriented Programming`, `AWS` <br/>
 * Databases -> `Relational Databases (Microsoft SQL Server, Oracle Database)`, `NoSQL Databases (DynamoDB, MongoDB)`, <br/>
-* Data Visualization -> `Tableau` <br/>
+* Data Visualization :chart_with_downwards_trend: -> `Tableau` <br/>
 
 
 Here you can see my [Project Portfolio](https://maciejpyra.github.io/Maciej_Portfolio_2/).
 
-:email: Feel free to contact me. I am always here... or find me on [LinkedIn](https://www.linkedin.com/in/maciej-pyra/).
+:email: Feel free to contact me in :uk:, :de: or :pl:. I am always here... or find me on [LinkedIn](https://www.linkedin.com/in/maciej-pyra/).
 
 
 <p align="center">Data Scientist | Python Developer</p>
