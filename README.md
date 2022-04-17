@@ -8,7 +8,7 @@ As a Python Developer with strong probability, statistics and mathematics acadam
 ## :speech_balloon: Skills and Experience:
 * Programming languages  	:desktop_computer: -> `Python` `R` `SQL (T-SQL and PL/SQL)` `Julia` `VBA` `SAS` `Matlab`<br/>
 * DevOps :handshake: -> `Git`, `GitHub`, `GitLab`, `Object-Oriented Programming`, `AWS` <br/>
-* Databases -> `Relational Databases (Microsoft SQL Server, Oracle Database)`, `NoSQL Databases (DynamoDB, MongoDB)`, <br/>
+* Databases :open_file_folder: -> `Relational Databases (Microsoft SQL Server, Oracle Database)`, `NoSQL Databases (DynamoDB, MongoDB)`, <br/>
 * Data Visualization :chart_with_downwards_trend: -> `Tableau` <br/>
 
 
@@ -19,5 +19,3 @@ Here you can see my [Project Portfolio](https://maciejpyra.github.io/Maciej_Port
 
 <p align="center">Data Scientist | Python Developer</p>
 
-
-<i class="bi bi-table">243</i>
