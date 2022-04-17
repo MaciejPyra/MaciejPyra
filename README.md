@@ -14,7 +14,7 @@ As a Python Developer with strong probability, statistics and mathematics acadam
 
 Here you can see my [Project Portfolio](https://maciejpyra.github.io/Maciej_Portfolio_2/).
 
-:email: Feel free to contact me in :uk:, :de: or :poland:. I am always here... or find me on [LinkedIn](https://www.linkedin.com/in/maciej-pyra/).
+:email: Feel free to contact me in :uk: , :de: or :poland:. I am always here... or find me on [LinkedIn](https://www.linkedin.com/in/maciej-pyra/).
 
 
 <p align="center">Data Scientist | Python Developer</p>
