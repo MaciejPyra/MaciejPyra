@@ -15,7 +15,7 @@ As a Python Developer with strong probability, statistics and mathematics acadam
 * DS/ML frameworks :mortar_board: -> `pandas` `NumPy` `SciPy` `Matplotlib` `seaborn` `QuantLib`  `scikit-learn` `TensorFlow`
 * Data Visualization :chart_with_downwards_trend: -> `R Shiny` `Tableau` <br/>
 * Machine and deep learning algorithms :dart: -> `linear / logistic regression` `decision tree` `random forest` `clustering` <br/>
-   &nbsp;&nbsp;&nbsp;&nbsp;    `dimensionality reduction`     `artificial neural networks` `convolutional neural networks` `NLP` <br/>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    `dimensionality reduction`     `artificial neural networks` `convolutional neural networks` `NLP` <br/>
 
 
 Here you can see my [Project Portfolio](https://maciejpyra.github.io/Maciej_Portfolio_2/).
