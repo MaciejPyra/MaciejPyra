@@ -20,4 +20,4 @@ Here you can see my [Project Portfolio](https://maciejpyra.github.io/Maciej_Port
 <p align="center">Data Scientist | Python Developer</p>
 
 
-<i class="bi bi-table"></i>
+<i class="bi bi-table">243</i>
