@@ -7,13 +7,13 @@ As a Python Developer with strong probability, statistics and mathematics acadam
 
 ## :speech_balloon: Skills and Experience:
 * Programming languages  	:desktop_computer: -> `Python` `R` `SQL (T-SQL and PL/SQL)` `Julia` `VBA` `SAS` `Matlab` `Java (basics)`<br/>
-* Programming-related experience :trophy: -> `Unit testing` `Object-Oriented Programming`
+* Programming-related experience :trophy: -> `Unit testing` `Object-Oriented Programming` `Web Scraping` <br/>
 * Version Contol System :handshake: -> `Git` `GitHub` `GitLab`<br/>
 * Databases :open_file_folder: -> `Relational Databases (Microsoft SQL Server, Oracle Database)` `NoSQL Databases (DynamoDB, MongoDB)` <br/>
 * Cloud technology :cloud: -> `AWS` <br/>
 * Data Visualization :chart_with_downwards_trend: -> `R Shiny` `Tableau` <br/>
 * DS/ML frameworks :mortar_board: -> `pandas` `NumPy` `SciPy` `Matplotlib` `seaborn` `QuantLib`  `scikit-learn` `TensorFlow`
-* Machine and deep learning algorithms :dart: -> `linear / logistic regression` `decision tree` `random forest` `clustering` `artificial neural netweorks` `convolutional neural networks` `NLP` <br/>
+* Machine and deep learning algorithms :dart: -> `linear / logistic regression` `decision tree` `random forest` `clustering` `artificial neural networks` `convolutional neural networks` `NLP` <br/>
 * Tools  :page_with_curl: -> `JIRA` <br/>
 
 
