@@ -7,9 +7,11 @@ As a Python Developer with strong probability, statistics and mathematics acadam
 
 ## :speech_balloon: Skills and Experience:
 * Programming languages  	:desktop_computer: -> `Python` `R` `SQL (T-SQL and PL/SQL)` `Julia` `VBA` `SAS` `Matlab`<br/>
-* DevOps :handshake: -> `Git` `GitHub` `GitLab` `Object-Oriented Programming` `AWS` <br/>
+* DevOps :handshake: -> `Git` `GitHub` `GitLab` `Object-Oriented Programming` <br/>
 * Databases :open_file_folder: -> `Relational Databases (Microsoft SQL Server, Oracle Database)` `NoSQL Databases (DynamoDB, MongoDB)` <br/>
-* Data Visualization :chart_with_downwards_trend: -> `Tableau` <br/>
+* Cloud technology :thought_balloon: -> `AWS` <br/>
+* Data Visualization :chart_with_downwards_trend: -> `R Shiny` `Tableau` <br/>
+* DS/ML frameworks + algorithms: 
 
 
 Here you can see my [Project Portfolio](https://maciejpyra.github.io/Maciej_Portfolio_2/).
