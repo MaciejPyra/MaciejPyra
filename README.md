@@ -12,7 +12,7 @@ As a Python Developer with strong probability, statistics and mathematics acadam
 * Tools  :page_with_curl: -> `JIRA` <br/>
 * Cloud technology :cloud: -> `AWS` <br/>
 * Databases :open_file_folder: -> `Relational Databases (Microsoft SQL Server, Oracle Database)` `NoSQL Databases (DynamoDB, MongoDB)` <br/>
-* * DS/ML frameworks :mortar_board: -> `pandas` `NumPy` `SciPy` `Matplotlib` `seaborn` `QuantLib`  `scikit-learn` `TensorFlow`
+* DS/ML frameworks :mortar_board: -> `pandas` `NumPy` `SciPy` `Matplotlib` `seaborn` `QuantLib`  `scikit-learn` `TensorFlow`
 * Data Visualization :chart_with_downwards_trend: -> `R Shiny` `Tableau` <br/>
 * Machine and deep learning algorithms :dart: -> `linear / logistic regression` `decision tree` `random forest` `clustering` `dimensionality reduction` `artificial neural networks` `convolutional neural networks` `NLP` <br/>
 
