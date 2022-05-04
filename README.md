@@ -22,7 +22,7 @@ Here you can see my [Project Portfolio](https://maciejpyra.github.io/Maciej_Port
 
 :email: Feel free to contact me in English :uk: , German :de: or Polish :poland:. I am always here... or find me on [LinkedIn](https://www.linkedin.com/in/maciej-pyra/).
 
-:rocket: Last but not least -> recently I'm into Natural Language Processing. If you are looking for collaborators to project concerning syntax and semantic analysis, do not hesitate to get in touch with me!
+:rocket: Last but not least -> recently I am into Natural Language Processing. If you are looking for collaborators to a project concerning syntax and semantic analysis, do not hesitate to get in touch with me!
 
 
 <p align="center">Data Scientist | Python Developer</p>
