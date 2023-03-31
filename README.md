@@ -8,12 +8,12 @@ As a Python Developer with strong probability, statistics and mathematics acadam
 ## :speech_balloon: Skills and Experience:
 * Programming languages  	:desktop_computer: -> `Python` `R` `SQL (T-SQL and PL/SQL)` `Julia` `VBA` `SAS` `Matlab` `Java (basics)`<br/>
 * Programming-related experience :trophy: -> `Object-Oriented Programming` `Unit testing` `Web Scraping` <br/>
-* Version Contol System :handshake: -> `Git` `GitHub` `GitLab`<br/>
-* Tools  :page_with_curl: -> `Docker` `JIRA` <br/>
-* Cloud technology :cloud: -> `AWS` <br/>
+* Version Control System :handshake: -> `Git` `GitHub` `GitLab`<br/>
+* DevOps Tools :page_with_curl: -> `Docker` `JIRA` `Confluence` `basics of Jenkins and Azure DevOps (CI/CD)` <br/>
 * Databases :open_file_folder: -> `Relational Databases (Microsoft SQL Server, Oracle Database)` `NoSQL Databases (DynamoDB, MongoDB)` <br/>
 * DS/ML frameworks :mortar_board: -> `NumPy` `pandas` `SciPy` `scikit-learn` `TensorFlow` `Matplotlib` `seaborn` `QuantLib`
-* Data Visualization :chart_with_downwards_trend: -> `R Shiny` `Python Streamlit` `Tableau` <br/>
+* Data Visualization :chart_with_downwards_trend: -> `Python Streamlit` `R Shiny` `Tableau` <br/>
+* Cloud technology :cloud: -> `AWS` <br/>
 * Machine and deep learning algorithms :dart: -> `linear / logistic regression` `decision tree` `random forest` `clustering` <br/>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   `dimensionality reduction`     `artificial neural network` `convolutional neural network` `NLP` <br/>
 
