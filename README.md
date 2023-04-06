@@ -18,7 +18,7 @@ As a Python Developer with strong probability, statistics and mathematics acadam
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   `dimensionality reduction`     `artificial neural network` `convolutional neural network` `NLP` <br/>
 
 
-Here you can see my [Project Portfolio](https://maciejpyra.github.io/Maciej_Portfolio_2/).
+Here you can see my [Project Portfolio](https://maciejpyra.github.io/programming-portfolio-website/).
 
 :email: Feel free to contact me in English :uk: , German :de: or Polish :poland:. I am always here... or find me on [LinkedIn](https://www.linkedin.com/in/maciej-pyra/).
 
